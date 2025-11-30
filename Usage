@@ -1,0 +1,9 @@
+# ⚡ Usage
+
+openai chat "Generate a website in HTML"
+
+---
+
+# 📊 Flowchart
+
+User → OpenAI CLI → OpenAI API → Model → Response → Terminal
